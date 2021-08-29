@@ -4,9 +4,9 @@
 
 Here is the home with a basic animation and a paged list of pokemons!
 
-Here is the api [repositories](https://github.com/gabrielgustavoandrade/Pokedex-api).
+Here is the api [repositorie](https://github.com/gabrielgustavoandrade/Pokedex-api).
 
-## Build it
+## Built with
 
 - [Node.js](https://github.com/nodejs/node)
 - [Npm](https://github.com/npm/cli)
